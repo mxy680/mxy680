@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxy680)](https://github.com/mxy680/github-readme-stats)
+![regulad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regulad&langs_count=8&layout=compact&theme=transparent)
