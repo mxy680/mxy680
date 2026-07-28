@@ -4,10 +4,10 @@
 
 I build production AI agents, multimodal products, and the infrastructure that makes them reliable. I’m pursuing a B.S.E. in Data Science with a minor in Artificial Intelligence at Case Western Reserve University and seeking Applied AI / ML engineering roles for Summer 2027.
 
-## Featured work
+## What I’m building
 
-### [ENGAGENT](https://github.com/mxy680/engagent)
-Production infrastructure for deploying AI agents with encrypted integrations, containerized execution, approval gates, and operator-facing control surfaces. Through ENGAGENT LLC, I build systems for clients across ecommerce, real estate, and healthcare-adjacent operations.
+### [Minions](https://engagent.dev)
+ENGAGENT’s private production platform for deploying and operating AI agents. Minions powers client systems across ecommerce, real estate, and healthcare-adjacent operations, with encrypted integrations, scheduled workflows, operator-facing control surfaces, and approval boundaries for sensitive actions. The production codebase is private.
 
 ### [Reef](https://github.com/mxy680/Reef)
 An iPad study companion that reads handwritten STEM work and provides proactive voice tutoring. Built with SwiftUI, Apple Pencil input, multimodal models, document processing, and streaming speech.
@@ -24,7 +24,7 @@ A volunteer opportunity and coordination platform connecting CWRU students with 
 ### [G2 Connect](https://github.com/mxy680/g2-connect)
 Open-source tooling for Even Realities G2 smart glasses, including a stopwatch and countdown timer built with the Even Hub SDK.
 
-## Production systems
+## Production work
 
 - Built **12 production systems** for SoundAsleep spanning ecommerce operations, analytics, monitoring, and agent-assisted workflows
 - Developing agents that scan prediction markets for cross-market discrepancies, arbitrage opportunities, and sharp-betting signals
