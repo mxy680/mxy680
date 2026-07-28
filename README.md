@@ -24,6 +24,9 @@ A volunteer opportunity and coordination platform connecting CWRU students with 
 ### [G2 Connect](https://github.com/mxy680/g2-connect)
 Open-source tooling for Even Realities G2 smart glasses, including a stopwatch and countdown timer built with the Even Hub SDK.
 
+### [Omniclaw](https://github.com/mxy680/omniclaw)
+A Google Workspace MCP server for OpenClaw that gives AI agents natural-language access to Gmail, Calendar, Drive, Docs, Sheets, Slides, and YouTube, including file and media downloads.
+
 ## Production work
 
 - Built **12 production systems** for SoundAsleep spanning ecommerce operations, analytics, monitoring, and agent-assisted workflows
